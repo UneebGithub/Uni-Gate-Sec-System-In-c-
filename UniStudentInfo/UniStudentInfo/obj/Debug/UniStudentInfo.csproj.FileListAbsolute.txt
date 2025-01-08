@@ -1,0 +1,13 @@
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\bin\Debug\UniStudentInfo.exe.config
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\bin\Debug\UniStudentInfo.exe
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\bin\Debug\UniStudentInfo.pdb
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\obj\Debug\UniStudentInfo.csproj.AssemblyReference.cache
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\obj\Debug\UniStudentInfo.Form1.resources
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\obj\Debug\UniStudentInfo.Properties.Resources.resources
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\obj\Debug\UniStudentInfo.csproj.GenerateResource.cache
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\obj\Debug\UniStudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\obj\Debug\UniStudentInfo.exe
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\obj\Debug\UniStudentInfo.pdb
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\obj\Debug\UniStudentInfo.Admin_Login.resources
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\obj\Debug\UniStudentInfo.DisplayUser.resources
+C:\Users\UNEEB\source\repos\UniStudentInfo\UniStudentInfo\obj\Debug\UniStudentInfo.UserADD.resources

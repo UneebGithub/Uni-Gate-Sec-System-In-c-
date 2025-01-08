@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="unistd" Class="unistdDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-PDSAB38\SQLEXPRESS;Initial Catalog=unistd;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="UniStudentInfo.Properties.Settings" SettingsPropertyName="unistdConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Login" Member="Logins">
+    <Type Name="Login">
+      <Column Name="username" Type="System.String" DbType="Char(30) NOT NULL" CanBeNull="false" />
+      <Column Name="pass" Type="System.String" DbType="Char(30) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.stddata" Member="stddatas">
+    <Type Name="stddata">
+      <Column Name="username" Type="System.String" DbType="Char(30) NOT NULL" CanBeNull="false" />
+      <Column Name="reg_no" Type="System.String" DbType="Char(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="batch" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="dep" Type="System.String" DbType="Char(30) NOT NULL" CanBeNull="false" />
+      <Column Name="CNIC" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="adr" Type="System.String" DbType="Char(50) NOT NULL" CanBeNull="false" />
+      <Column Name="picture" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADMINLogin" Member="ADMINLogins">
+    <Type Name="ADMINLogin">
+      <Column Name="username" Type="System.String" DbType="Char(30) NOT NULL" CanBeNull="false" />
+      <Column Name="pass" Type="System.String" DbType="Char(30) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
